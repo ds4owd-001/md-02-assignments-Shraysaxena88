@@ -3,6 +3,7 @@ title: "Data Visualisation"
 author: "Shray Saxena"
 format:
   html:
+    toc: true
     embed-resources: true
 editor: visual
 execute:
@@ -181,7 +182,7 @@ geom_boxplot(outlier.shape = NA)
 
     ```
 
-## Task 8: Create a barplot 
+## Task 8: Create a barplot
 
 ## with `geom_col()`
 
